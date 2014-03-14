@@ -1,8 +1,8 @@
 [
  {
-   "repository":  "SlimRoms/proprietary_vendor_lge",
+   "repository":  "Hellybean/proprietary_vendor_lge",
    "target_path": "vendor/lge",
-   "branch":      "kk4.4"
+   "branch":      "cm-11.0"
  },
  {
    "repository":  "SlimRoms/proprietary_vendor_qcom",
